@@ -36,4 +36,5 @@ Check your 3DS battery
 * | N3DS LL(JP) | **mode:** full | 1750mAh | **min** 1m15s | **max** 3m27s | **avg** 2m30s | **total** 3h33m09s | **note:** |
 * | N3DS LL(JP) | **mode:** full | 1750mAh | **min** 0m50s | **max** 2m35s | **avg** 1m49s | **total** 2h34m35s | **note:** |
 * | N3DS LL(JP) | **mode:** full | 1750mAh | **min** 0m34s | **max** 3m01s | **avg** 1m18s | **total** 1h50m40s | **note:** |
+* | N3DS XL(EU) | **mode:** full | 1750mAh | **min** 1m25s | **max** 4m20s | **avg** 3m09s | **total** 4h28m41s | **note:** 
 
